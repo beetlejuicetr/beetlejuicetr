@@ -16,6 +16,8 @@ I'm game and software developer.
 
 👤 Bio:
 
+👉 ******** Community : Ceo
+
 👉 Team Meer : Ceo, programmer, planner.
 
 👉 Zide Store : Ceo.
