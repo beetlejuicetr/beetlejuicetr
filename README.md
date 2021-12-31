@@ -1,6 +1,6 @@
 👋 Hello There.
 
-I'm game and software developer.
+**I'm game and software developer.**
 
 ----------------------------------------------
 
@@ -16,9 +16,9 @@ I'm game and software developer.
 
 👤 Bio:
 
-👉 ******** Community : Ceo
+👉 ******** Community : **Ceo**
 
-👉 Team Meer : Ceo, programmer, planner.
+👉 Team Meer :**Ceo, programmer, planner.**
 
-👉 Zide Store : Ceo.
+👉 Zide Store : **Ceo.**   https://zidestore.net/
 
