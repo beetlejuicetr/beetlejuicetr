@@ -10,8 +10,6 @@
 
 👉 https://skide.itch.io/oxygen-or-gold 
 
-👉 https://skide.itch.io/cay-atma-simulator
-
 -----------------------------------------------
 
 👤 Bio:
