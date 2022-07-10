@@ -15,10 +15,3 @@
 👉 https://radome-games.itch.io/alisa
 
 -----------------------------------------------
-
-👤 Bio:
-
-👉 Team Meer :**Ceo, programmer, planner.**
-
-👉 Zide Store : **Ceo.**   https://zidestore.net/
-
